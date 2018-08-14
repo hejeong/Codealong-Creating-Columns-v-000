@@ -105,6 +105,9 @@ img, video, audio {
   margin-left: 0%;
 }
 
+#social {
+  position: fixed;
+}
 .clearfix:after {
   content: ".";
   display: block;
