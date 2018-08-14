@@ -120,6 +120,14 @@ img, video, audio {
   background: yellow;
 }
 
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: white;
+}
+
 .clearfix:after {
   content: ".";
   display: block;
