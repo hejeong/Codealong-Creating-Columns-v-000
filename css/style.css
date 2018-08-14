@@ -107,7 +107,10 @@ img, video, audio {
 
 #social {
   position: fixed;
+  top: 200px;
+  right: 20px;
 }
+
 .clearfix:after {
   content: ".";
   display: block;
